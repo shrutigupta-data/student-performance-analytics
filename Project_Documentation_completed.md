@@ -71,8 +71,7 @@ The automated test suite also completed successfully: 8 tests passed.
 ## 10. GitHub Repository
 
 Repository name: `student-performance-analytics`  
-Repository URL: **[REPLACE WITH THE ACTUAL GITHUB REPOSITORY URL AFTER CREATING IT]**
-
+Repository URL: (https://github.com/shrutigupta-data/student-performance-analytics)
 Manual submission checklist:
 
 1. Sign in to GitHub or create an account.
