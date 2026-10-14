@@ -72,14 +72,3 @@ The automated test suite also completed successfully: 8 tests passed.
 
 Repository name: `student-performance-analytics`  
 Repository URL: (https://github.com/shrutigupta-data/student-performance-analytics)
-Manual submission checklist:
-
-1. Sign in to GitHub or create an account.
-2. Create a repository named `student-performance-analytics`.
-3. Choose visibility and accessibility according to the EWB Courses trainer's instructions.
-4. Upload or commit all project files from this folder.
-5. Open the repository in a browser and verify the required files are visible.
-6. Copy the actual repository URL and replace the placeholder in this file and `README.md`.
-7. Push/commit the documentation update to GitHub.
-8. Verify the final repository and updated URL again.
-9. Submit the correct repository link through the Google Form provided by EWB Courses. The form URL was not supplied, and submission has not been claimed.
